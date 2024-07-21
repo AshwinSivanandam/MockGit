@@ -1,1 +1,2 @@
 This is master demo3.txt
+This is feature3 demo3.txt
